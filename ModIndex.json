@@ -1,0 +1,329 @@
+{
+    "developers": [
+      {
+        "name": "Zircta",
+        "projects": [
+          {
+            "name": "Always Swing",
+            "url": "https://github.com/Zircta/AlwaysSwing",
+            "description": "Visually remove 1.8.9 hit delay."
+          },
+          {
+            "name": "Cookie Login",
+            "url": "https://github.com/Zircta/Cookie-Login",
+            "description": "Login to Cookie Alts."
+          },
+          {
+            "name": "FPS",
+            "url": "https://github.com/Zircta/FPS",
+            "description": "Allows you to set a completely custom FPS limit."
+          },
+          {
+            "name": "GG",
+            "url": "https://github.com/Zircta/GG",
+            "description": "AutoGG for your favorite servers."
+          },
+          {
+            "name": "Parallax Fix",
+            "url": "https://github.com/Zircta/ParallaxFix",
+            "description": "Fixes a minecraft bug. [MC-1846](https://bugs.mojang.com/browse/MC-1846)"
+          },
+          {
+            "name": "Toggle Chat",
+            "url": "https://github.com/Zircta/ToggleChat",
+            "description": "Allows you to Toggle Chat with the press of a button."
+          },
+          {
+            "name": "Vape Fix",
+            "url": "https://github.com/Zircta/VapeFix",
+            "description": "Fixes Vape injecting into Weave."
+          }
+        ]
+      },
+      {
+        "name": "1lylily",
+        "projects": [
+          {
+            "name": "Coc Banana",
+            "url": "https://github.com/1lylily/coc-banana",
+            "description": "A simple cheat for a clash of code."
+          },
+          {
+            "name": "Crop Hitboxes",
+            "url": "https://github.com/1lylily/WeaveCropHitboxes",
+            "description": "Port of Patcher's 1.12 crop hitboxes."
+          },
+          {
+            "name": "Peaceful Mining",
+            "url": "https://github.com/1lylily/WeavePeacefulMining",
+            "description": "Recreation of Cosmic Client's peaceful mining."
+          }
+        ]
+      },
+      {
+        "name": "aestheticalll",
+        "projects": [
+          {
+            "name": "Blatent Client",
+            "url": "https://github.com/aestheticalll/lunar-blatent-client",
+            "description": "A blatent client."
+          }
+        ]
+      },
+      {
+        "name": "AriaJackie",
+        "projects": [
+          {
+            "name": "Fractal",
+            "url": "https://github.com/AriaJackie/Fractal",
+            "description": "Open source cheat."
+          },
+          {
+            "name": "FPS Spoofer",
+            "url": "https://github.com/AriaJackie/FPS-Spoofer",
+            "description": "Allows you to spoof your FPS."
+          }
+        ]
+      },
+      {
+        "name": "betterclient",
+        "projects": [
+          {
+            "name": "Mod Menu",
+            "url": "https://github.com/betterclient/Weave-mod-menu",
+            "description": "Lets you see your mods in-game."
+          }
+        ]
+      },
+      {
+        "name": "candicey-weave",
+        "projects": [
+          {
+            "name": "Astral",
+            "url": "https://gitlab.com/candicey-weave/astral",
+            "description": "A utility mod for penetrating Minecraft servers."
+          },
+          {
+            "name": "Cracked Accounts",
+            "url": "https://gitlab.com/candicey-weave/cracked-account",
+            "description": "Allows you to use cracked accounts."
+          },
+          {
+            "name": "Crêpes",
+            "url": "https://gitlab.com/candicey-weave/crepes",
+            "description": "minecraftcapes.net for Weave."
+          },
+          {
+            "name": "Dulikk",
+            "url": "https://gitlab.com/candicey-weave/dulikk",
+            "description": "Allows you to customise the way items are held."
+          },
+          {
+            "name": "GTB Solver",
+            "url": "https://gitlab.com/candicey-weave/gtb-solver",
+            "description": "Guess the build solver."
+          },
+          {
+            "name": "No Button Block",
+            "url": "https://gitlab.com/candicey-weave/NoButtonBlock",
+            "description": "Fixes the cancel button."
+          },
+          {
+            "name": "Via Lunar",
+            "url": "https://gitlab.com/candicey-weave/viaversion-lunar",
+            "description": "Via versions for Lunar."
+          },
+          {
+            "name": "Zenith Core",
+            "url": "https://gitlab.com/candicey-weave/zenith-core",
+            "description": "A library for Weave modding. (currently undocumented)"
+          },
+          {
+            "name": "Zombies",
+            "url": "https://gitlab.com/candicey-weave/zombies",
+            "description": "Improves the Hypixel Zombies experience."
+          }
+        ]
+      },
+      {
+        "name": "exejar",
+        "projects": [
+          {
+            "name": "Seraph",
+            "url": "https://github.com/exejar/Seraph",
+            "description": "Statistic Weave Mod for Hypixel."
+          },
+          {
+            "name": "Weave YouTube",
+            "url": "https://github.com/exejar/WeaveYouTube",
+            "description": "A simple 2d ESP mod. (outdated!)"
+          }
+        ]
+      },
+      {
+        "name": "emirsassan",
+        "projects": [
+          {
+            "name": "Weave Base",
+            "url": "https://github.com/emirsassan/WeaveBase",
+            "description": "Example client base."
+          }
+        ]
+      },
+      {
+        "name": "Nilsen84",
+        "projects": [
+          {
+            "name": "No Hit Delay",
+            "url": "https://github.com/Nilsen84/WeaveNoHitDelay",
+            "description": "Removes 1.8.9 hit delay."
+          }
+        ]
+      },
+      {
+        "name": "kacorvixon1337",
+        "projects": [
+          {
+            "name": "Blue Client",
+            "url": "https://github.com/kacorvixon1337/blueclient",
+            "description": "Ghost client."
+          }
+        ]
+      },
+      {
+        "name": "koxx12-dev",
+        "projects": [
+          {
+            "name": "Raw Input",
+            "url": "https://github.com/koxx12-dev/Weave-Raw-Input",
+            "description": "Raw mouse inputs for Windows."
+          }
+        ]
+      },
+      {
+        "name": "legitish",
+        "projects": [
+          {
+            "name": "Legit ish",
+            "url": "https://github.com/legitish/Legit-ish",
+            "description": "Ghost client."
+          }
+        ]
+      },
+      {
+        "name": "PianoPenguin471",
+        "projects": [
+          {
+            "name": "Raven Weave",
+            "url": "https://github.com/PianoPenguin471/RavenWeave",
+            "description": "Raven B++ port."
+          },
+          {
+            "name": "Raven Weave Lite",
+            "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
+            "description": "Raven B+ port."
+          }
+        ]
+      },
+      {
+        "name": "SleepyFishYT",
+        "projects": [
+          {
+            "name": "SMok Client",
+            "url": "https://github.com/SleepyFishYT/SMok-Client",
+            "description": "Ghost client."
+          },
+          {
+            "name": "Hide Chat",
+            "url": "https://github.com/SleepyFishYT/Weave-Hide-Chat",
+            "description": "Hides your ingame chat."
+          }
+        ]
+      },
+      {
+        "name": "solsahar",
+        "projects": [
+          {
+            "name": "Twitch Chat",
+            "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
+            "description": "Integrates Twitch chat into Minecraft."
+          }
+        ]
+      },
+      {
+        "name": "supercoolspy",
+        "projects": [
+          {
+            "name": "Pit Utils",
+            "url": "https://github.com/supercoolspy/PitUtilsLunar",
+            "description": "Hypixel pit utilities."
+          }
+        ]
+      },
+      {
+        "name": "thaYt",
+        "projects": [
+          {
+            "name": "Oof Mod",
+            "url": "https://github.com/thaYt/oofmod",
+            "description": "Oof 😢"
+          }
+        ]
+      },
+      {
+        "name": "Transhacks",
+        "projects": [
+          {
+            "name": "Quick Maths",
+            "url": "https://github.com/Transhacks/quick-maths",
+            "description": "Auto Quick Maths for Universocraft's Sky Pit."
+          }
+        ]
+      },
+      {
+        "name": "Tryflle",
+        "projects": [
+          {
+            "name": "Basic Flight",
+            "url": "https://github.com/Tryflle/weavebasicflight",
+            "description": "Vanilla flight mod."
+          },
+          {
+            "name": "Slow Mining",
+            "url": "https://github.com/Tryflle/WeaveSlowMining",
+            "description": "Allows you to change your swing speed."
+          }
+        ]
+      },
+      {
+        "name": "uniformization",
+        "projects": [
+          {
+            "name": "Lunar Fools",
+            "url": "https://github.com/uniformization/LunarFools",
+            "description": "Re-enables the Lunar Client April Fools menu."
+          }
+        ]
+      },
+      {
+        "name": "Yan-Jobs",
+        "projects": [
+          {
+            "name": "MM Utils",
+            "url": "https://github.com/Yan-Jobs/mm-utils",
+            "description": "Hypixel murder mystery utilities."
+          }
+        ]
+      },
+      {
+        "name": "Zxnii",
+        "projects": [
+          {
+            "name": "Vanilla Menu",
+            "url": "https://github.com/Zxnii/VanillaMenu",
+            "description": "Gets rid of Lunar's custom main menu."
+          }
+        ]
+      }
+    ]
+  }
