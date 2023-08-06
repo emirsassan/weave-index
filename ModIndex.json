@@ -9,6 +9,11 @@
             "description": "Visually remove 1.8.9 hit delay."
           },
           {
+            "name": "Alex Fix",
+            "url": "https://github.com/Zircta/AlexFix",
+            "description": "Resolves a bug where Alexs arms are shifted down lower than Steves."
+          },
+          {
             "name": "Cookie Login",
             "url": "https://github.com/Zircta/Cookie-Login",
             "description": "Login to Cookie Alts."
