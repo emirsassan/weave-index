@@ -136,7 +136,7 @@
           {
             "name": "Zenith Core",
             "url": "https://gitlab.com/candicey-weave/zenith-core",
-            "description": "A library for Weave modding. (currently undocumented)"
+            "description": "A library for Weave modding."
           },
           {
             "name": "Zombies",
