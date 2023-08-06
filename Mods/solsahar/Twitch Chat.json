@@ -1,0 +1,10 @@
+{
+    "name": "Twitch Chat",
+    "developers": [
+        "solsahar"
+    ],
+    "description": "Integrates Twitch chat into Minecraft.",
+    "links": [
+        "https://github.com/solsahar/Twitch-Chat-In-Game"
+    ]
+}

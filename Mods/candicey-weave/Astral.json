@@ -1,0 +1,10 @@
+{
+    "name": "Astral",
+    "developers": [
+        "candicey-weave"
+    ],
+    "description": "A utility mod for penetrating Minecraft servers.",
+    "links": [
+        "https://gitlab.com/candicey-weave/astral"
+    ]
+}

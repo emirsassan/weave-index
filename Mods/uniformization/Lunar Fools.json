@@ -1,0 +1,10 @@
+{
+    "name": "Lunar Fools",
+    "developers": [
+        "uniformization"
+    ],
+    "description": "Re-enables the Lunar Client April Fools menu.",
+    "links": [
+        "https://github.com/uniformization/LunarFools"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mod Menu",
+    "developers": [
+        "betterclient"
+    ],
+    "description": "Lets you see your mods in-game.",
+    "links": [
+        "https://github.com/betterclient/Weave-mod-menu"
+    ]
+}

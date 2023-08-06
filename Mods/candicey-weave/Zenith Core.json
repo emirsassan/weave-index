@@ -1,0 +1,10 @@
+{
+    "name": "Zenith Core",
+    "developers": [
+        "candicey-weave"
+    ],
+    "description": "A library for Weave modding. (currently undocumented)",
+    "links": [
+        "https://gitlab.com/candicey-weave/zenith-core"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Vape Fix",
+    "developers": [
+        "Zircta"
+    ],
+    "description": "Fixes Vape injecting into Weave.",
+    "links": [
+        "https://github.com/Zircta/VapeFix"
+    ]
+}

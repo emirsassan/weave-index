@@ -1,0 +1,10 @@
+{
+    "name": "GTB Solver",
+    "developers": [
+        "candicey-weave"
+    ],
+    "description": "Guess the build solver.",
+    "links": [
+        "https://gitlab.com/candicey-weave/gtb-solver"
+    ]
+}

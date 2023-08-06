@@ -1,0 +1,10 @@
+{
+    "name": "Raw Input",
+    "developers": [
+        "koxx12-dev"
+    ],
+    "description": "Raw mouse inputs for Windows.",
+    "links": [
+        "https://github.com/koxx12-dev/Weave-Raw-Input"
+    ]
+}

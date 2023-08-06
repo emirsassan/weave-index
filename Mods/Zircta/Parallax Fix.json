@@ -1,0 +1,10 @@
+{
+    "name": "Parallax Fix",
+    "developers": [
+        "Zircta"
+    ],
+    "description": "Fixes a minecraft bug. [MC-1846](https://bugs.mojang.com/browse/MC-1846)",
+    "links": [
+        "https://github.com/Zircta/ParallaxFix"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Crop Hitboxes",
+    "developers": [
+        "1lylily"
+    ],
+    "description": "Port of Patcher's 1.12 crop hitboxes.",
+    "links": [
+        "https://github.com/1lylily/WeaveCropHitboxes"
+    ]
+}
