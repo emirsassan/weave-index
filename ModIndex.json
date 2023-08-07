@@ -6,42 +6,50 @@
           {
             "name": "Always Swing",
             "url": "https://github.com/Zircta/AlwaysSwing",
-            "description": "Visually remove 1.8.9 hit delay."
+            "description": "Visually remove 1.8.9 hit delay.",
+            "deprecated": false
           },
           {
             "name": "Alex Fix",
             "url": "https://github.com/Zircta/AlexFix",
-            "description": "Resolves a bug where Alexs arms are shifted down lower than Steves."
+            "description": "Resolves a bug where Alexs arms are shifted down lower than Steves.",
+            "deprecated": false
           },
           {
             "name": "Cookie Login",
             "url": "https://github.com/Zircta/Cookie-Login",
-            "description": "Login to Cookie Alts."
+            "description": "Login to Cookie Alts.",
+            "deprecated": false
           },
           {
             "name": "FPS",
             "url": "https://github.com/Zircta/FPS",
-            "description": "Allows you to set a completely custom FPS limit."
+            "description": "Allows you to set a completely custom FPS limit.",
+            "deprecated": false
           },
           {
             "name": "GG",
             "url": "https://github.com/Zircta/GG",
-            "description": "AutoGG for your favorite servers."
+            "description": "AutoGG for your favorite servers.",
+            "deprecated": false
           },
           {
             "name": "Parallax Fix",
             "url": "https://github.com/Zircta/ParallaxFix",
-            "description": "Fixes a minecraft bug. [MC-1846](https://bugs.mojang.com/browse/MC-1846)"
+            "description": "Fixes a minecraft bug. [MC-1846](https://bugs.mojang.com/browse/MC-1846)",
+            "deprecated": false
           },
           {
             "name": "Toggle Chat",
             "url": "https://github.com/Zircta/ToggleChat",
-            "description": "Allows you to Toggle Chat with the press of a button."
+            "description": "Allows you to Toggle Chat with the press of a button.",
+            "deprecated": false
           },
           {
             "name": "Vape Fix",
             "url": "https://github.com/Zircta/VapeFix",
-            "description": "Fixes Vape injecting into Weave."
+            "description": "Fixes Vape injecting into Weave.",
+            "deprecated": false
           }
         ]
       },
@@ -51,17 +59,20 @@
           {
             "name": "Coc Banana",
             "url": "https://github.com/1lylily/coc-banana",
-            "description": "A simple cheat for a clash of code."
+            "description": "A simple cheat for a clash of code.",
+            "deprecated": false
           },
           {
             "name": "Crop Hitboxes",
             "url": "https://github.com/1lylily/WeaveCropHitboxes",
-            "description": "Port of Patcher's 1.12 crop hitboxes."
+            "description": "Port of Patcher's 1.12 crop hitboxes.",
+            "deprecated": false
           },
           {
             "name": "Peaceful Mining",
             "url": "https://github.com/1lylily/WeavePeacefulMining",
-            "description": "Recreation of Cosmic Client's peaceful mining."
+            "description": "Recreation of Cosmic Client's peaceful mining.",
+            "deprecated": false
           }
         ]
       },
@@ -71,7 +82,8 @@
           {
             "name": "Blatent Client",
             "url": "https://github.com/aestheticalll/lunar-blatent-client",
-            "description": "A blatent client."
+            "description": "A blatent client.",
+            "deprecated": false
           }
         ]
       },
@@ -81,12 +93,14 @@
           {
             "name": "Fractal",
             "url": "https://github.com/AriaJackie/Fractal",
-            "description": "Open source cheat."
+            "description": "Open source cheat.",
+            "deprecated": false
           },
           {
             "name": "FPS Spoofer",
             "url": "https://github.com/AriaJackie/FPS-Spoofer",
-            "description": "Allows you to spoof your FPS."
+            "description": "Allows you to spoof your FPS.",
+            "deprecated": false
           }
         ]
       },
@@ -96,7 +110,8 @@
           {
             "name": "Mod Menu",
             "url": "https://github.com/betterclient/Weave-mod-menu",
-            "description": "Lets you see your mods in-game."
+            "description": "Lets you see your mods in-game.",
+            "deprecated": true
           }
         ]
       },
@@ -106,47 +121,56 @@
           {
             "name": "Astral",
             "url": "https://gitlab.com/candicey-weave/astral",
-            "description": "A utility mod for penetrating Minecraft servers."
+            "description": "A utility mod for penetrating Minecraft servers.",
+            "deprecated": false
           },
           {
             "name": "Cracked Accounts",
             "url": "https://gitlab.com/candicey-weave/cracked-account",
-            "description": "Allows you to use cracked accounts."
+            "description": "Allows you to use cracked accounts.",
+            "deprecated": false
           },
           {
             "name": "Crêpes",
             "url": "https://gitlab.com/candicey-weave/crepes",
-            "description": "minecraftcapes.net for Weave."
+            "description": "minecraftcapes.net for Weave.",
+            "deprecated": false
           },
           {
             "name": "Dulikk",
             "url": "https://gitlab.com/candicey-weave/dulikk",
-            "description": "Allows you to customise the way items are held."
+            "description": "Allows you to customise the way items are held.",
+            "deprecated": false
           },
           {
             "name": "GTB Solver",
             "url": "https://gitlab.com/candicey-weave/gtb-solver",
-            "description": "Guess the build solver."
+            "description": "Guess the build solver.",
+            "deprecated": false
           },
           {
             "name": "No Button Block",
             "url": "https://gitlab.com/candicey-weave/NoButtonBlock",
-            "description": "Fixes the cancel button."
+            "description": "Fixes the cancel button.",
+            "deprecated": false
           },
           {
             "name": "Via Lunar",
             "url": "https://gitlab.com/candicey-weave/viaversion-lunar",
-            "description": "Via versions for Lunar."
+            "description": "Via versions for Lunar.",
+            "deprecated": false
           },
           {
             "name": "Zenith Core",
             "url": "https://gitlab.com/candicey-weave/zenith-core",
-            "description": "A library for Weave modding."
+            "description": "A library for Weave modding.",
+            "deprecated": false
           },
           {
             "name": "Zombies",
             "url": "https://gitlab.com/candicey-weave/zombies",
-            "description": "Improves the Hypixel Zombies experience."
+            "description": "Improves the Hypixel Zombies experience.",
+            "deprecated": false
           }
         ]
       },
@@ -156,12 +180,14 @@
           {
             "name": "Seraph",
             "url": "https://github.com/exejar/Seraph",
-            "description": "Statistic Weave Mod for Hypixel."
+            "description": "Statistic Weave Mod for Hypixel.",
+            "deprecated": false
           },
           {
             "name": "Weave YouTube",
             "url": "https://github.com/exejar/WeaveYouTube",
-            "description": "A simple 2d ESP mod. (outdated!)"
+            "description": "A simple 2d ESP mod. (outdated!)",
+            "deprecated": true
           }
         ]
       },
@@ -171,7 +197,8 @@
           {
             "name": "Weave Base",
             "url": "https://github.com/emirsassan/WeaveBase",
-            "description": "Example client base."
+            "description": "Example client base.",
+            "deprecated": false
           }
         ]
       },
@@ -181,7 +208,8 @@
           {
             "name": "No Hit Delay",
             "url": "https://github.com/Nilsen84/WeaveNoHitDelay",
-            "description": "Removes 1.8.9 hit delay."
+            "description": "Removes 1.8.9 hit delay.",
+            "deprecated": false
           }
         ]
       },
@@ -191,7 +219,8 @@
           {
             "name": "Blue Client",
             "url": "https://github.com/kacorvixon1337/blueclient",
-            "description": "Ghost client."
+            "description": "Ghost client.",
+            "deprecated": false
           }
         ]
       },
@@ -201,7 +230,8 @@
           {
             "name": "Raw Input",
             "url": "https://github.com/koxx12-dev/Weave-Raw-Input",
-            "description": "Raw mouse inputs for Windows."
+            "description": "Raw mouse inputs for Windows.",
+            "deprecated": false
           }
         ]
       },
@@ -211,7 +241,8 @@
           {
             "name": "Legit ish",
             "url": "https://github.com/legitish/Legit-ish",
-            "description": "Ghost client."
+            "description": "Ghost client.",
+            "deprecated": false
           }
         ]
       },
@@ -221,12 +252,14 @@
           {
             "name": "Raven Weave",
             "url": "https://github.com/PianoPenguin471/RavenWeave",
-            "description": "Raven B++ port."
+            "description": "Raven B++ port.",
+            "deprecated": false
           },
           {
             "name": "Raven Weave Lite",
             "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
-            "description": "Raven B+ port."
+            "description": "Raven B+ port.",
+            "deprecated": false
           }
         ]
       },
@@ -236,12 +269,14 @@
           {
             "name": "SMok Client",
             "url": "https://github.com/SleepyFishYT/SMok-Client",
-            "description": "Ghost client."
+            "description": "Ghost client.",
+            "deprecated": false
           },
           {
             "name": "Hide Chat",
             "url": "https://github.com/SleepyFishYT/Weave-Hide-Chat",
-            "description": "Hides your ingame chat."
+            "description": "Hides your ingame chat.",
+            "deprecated": false
           }
         ]
       },
@@ -251,7 +286,8 @@
           {
             "name": "Twitch Chat",
             "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
-            "description": "Integrates Twitch chat into Minecraft."
+            "description": "Integrates Twitch chat into Minecraft.",
+            "deprecated": false
           }
         ]
       },
@@ -261,7 +297,8 @@
           {
             "name": "Pit Utils",
             "url": "https://github.com/supercoolspy/PitUtilsLunar",
-            "description": "Hypixel pit utilities."
+            "description": "Hypixel pit utilities.",
+            "deprecated": false
           }
         ]
       },
@@ -271,7 +308,8 @@
           {
             "name": "Oof Mod",
             "url": "https://github.com/thaYt/oofmod",
-            "description": "Oof 😢"
+            "description": "Oof 😢",
+            "deprecated": false
           }
         ]
       },
@@ -281,7 +319,8 @@
           {
             "name": "Quick Maths",
             "url": "https://github.com/Transhacks/quick-maths",
-            "description": "Auto Quick Maths for Universocraft's Sky Pit."
+            "description": "Auto Quick Maths for Universocraft's Sky Pit.",
+            "deprecated": false
           }
         ]
       },
@@ -291,12 +330,14 @@
           {
             "name": "Basic Flight",
             "url": "https://github.com/Tryflle/weavebasicflight",
-            "description": "Vanilla flight mod."
+            "description": "Vanilla flight mod.",
+            "deprecated": false
           },
           {
             "name": "Slow Mining",
             "url": "https://github.com/Tryflle/WeaveSlowMining",
-            "description": "Allows you to change your swing speed."
+            "description": "Allows you to change your swing speed.",
+            "deprecated": false
           }
         ]
       },
@@ -306,7 +347,8 @@
           {
             "name": "Lunar Fools",
             "url": "https://github.com/uniformization/LunarFools",
-            "description": "Re-enables the Lunar Client April Fools menu."
+            "description": "Re-enables the Lunar Client April Fools menu.",
+            "deprecated": true
           }
         ]
       },
@@ -316,7 +358,8 @@
           {
             "name": "MM Utils",
             "url": "https://github.com/Yan-Jobs/mm-utils",
-            "description": "Hypixel murder mystery utilities."
+            "description": "Hypixel murder mystery utilities.",
+            "deprecated": false
           }
         ]
       },
@@ -326,7 +369,8 @@
           {
             "name": "Vanilla Menu",
             "url": "https://github.com/Zxnii/VanillaMenu",
-            "description": "Gets rid of Lunar's custom main menu."
+            "description": "Gets rid of Lunar's custom main menu.",
+            "deprecated": false
           }
         ]
       }
