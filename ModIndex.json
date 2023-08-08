@@ -101,7 +101,13 @@
             "url": "https://github.com/AriaJackie/FPS-Spoofer",
             "description": "Allows you to spoof your FPS.",
             "deprecated": false
-          }
+          },
+          {
+            "name": "Auto Groomer",
+            "url": "https://github.com/AriaJackie/AutoGroomer",
+            "description": "An autogroom mod.",
+            "deprecated": false
+          },
         ]
       },
       {
